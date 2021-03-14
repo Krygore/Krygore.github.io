@@ -19,7 +19,7 @@
  <br>
  <div>
    <p>If you are looking for help with a project, please message or email me and I will get back to you as soon as possible!</p>
-   <p>Email: BionicRedneck94@mgmail.com | Twitter: <a href="https://twitter.com/Krygore1" target="_blank">@Krygore1</a>
+   <p>Email: <a href="BionicRedneck94@gmail.com" target="_blank">BionicRedneck@gmail.com<a> | Twitter: <a href="https://twitter.com/Krygore1" target="_blank">@Krygore1</a>
  <footer>
   <p id="footer"><small>Property of Krygore &copy:, 2021</small></p>
  </footer>
