@@ -11,12 +11,15 @@
   <div class="divList">
     <ul>
       <li>Personal blog on Chainsaw Carving</li>
-      <li>A Tribute John Wayne</li>
+      <li>A Tribute to John Wayne</li>
       <li>Skyrim Gamer's Guide</li>
       <li>And more!</li>
   </ul>
  </div>
  <br>
+ <div>
+   <p>If you are looking for help with a project, please message or email me and I will get back to you as soon as possible!</p>
+   <p>Email: BionicRedneck94@mgmail.com | Twitter: <a href="https://twitter.com/Krygore1" target="_blank">@Krygore1</a>
  <footer>
   <p id="footer"><small>Property of Krygore &copy:, 2021</small></p>
  </footer>
